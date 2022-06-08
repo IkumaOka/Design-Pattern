@@ -1,5 +1,4 @@
 from abc import ABCMeta, abstractmethod
-from unicodedata import name
 
 
 class Aggregate(metaclass=ABCMeta):
